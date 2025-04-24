@@ -13,7 +13,7 @@ git push -d test
 
 ```
 # numer 5   ask 5
-### ✅ 1. Temporarily Save Changes (Stash)
+###  Temporarily Save Changes (Stash)
 
 If you have uncommitted changes but want to switch branches without committing, use:
 ```bash
